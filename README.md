@@ -1,3 +1,5 @@
+![Matrix](Title_photo.png)
+
 # Employee Satisfaction & Attrition Prediction
 
 A data science project focused on predicting employee **job satisfaction** and **attrition risk** using supervised machine learning techniques. This project delivers insights for HR departments to take proactive action and reduce staff turnover.
